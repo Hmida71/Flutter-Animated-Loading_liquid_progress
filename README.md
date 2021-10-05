@@ -1,4 +1,4 @@
-# Flutter Animated Loading liquid progress 
+# Flutter Animated Loading liquid progress 🚀🔥
 <hr>
 <table>
 <thead>
