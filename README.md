@@ -27,5 +27,18 @@
 </tbody>
 </table>
 
+<hr>
+<h4># Usage </h4>
+<h5>First you need to add liquid_progress_indicator 0.4.0 Or +  in the dependency at pubspec.yaml:</h5>
+<pre><code> dependencies:
+  liquid_progress_indicator: ^0.4.0
+  </code></pre>
+  <h5>Or run this in your terminal !! </h5>
+<pre><code> 
+flutter pub add liquid_progress_indicator
+  </code></pre>
+
+
+
 
 Flutter Animation liquid 🐱‍👤 Made with algeria By DZ-TM071
